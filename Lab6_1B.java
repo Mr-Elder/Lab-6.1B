@@ -1,4 +1,4 @@
-/**
+'/**
  * @(#)Lab6_1B.java
  *
  *
@@ -10,7 +10,7 @@
 public class Lab6_1B {
 
    public static void main(String[] args){
-   		GradeQuiz.gradeQuiz();
+	   GradeQuiz.gradeQuiz();
    }
     
     
